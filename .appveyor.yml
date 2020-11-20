@@ -1,4 +1,5 @@
-
+build_cloud: <private_build_cloud_name>
+image: <private_build_cloud_image>
 
 stack: jdk 11  # версия JDK
 
