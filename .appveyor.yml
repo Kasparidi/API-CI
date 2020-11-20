@@ -1,4 +1,4 @@
-image: Microsoft Windows 2004  # образ для сборки
+image: Windows  # образ для сборки
 
 stack: jdk 11  # версия JDK
 
