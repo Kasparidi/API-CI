@@ -15,7 +15,7 @@
     "additionalProperties": false,
     "properties": {
       "id": {
-        "type": "double"
+        "type": "integer"
       },
       "name": {
         "type": "string",
@@ -29,7 +29,7 @@
         "type": "integer"
       },
       "currency": {
-        "type": "string"
+        "type": "string", "enum": ["USD", "RUB"]
       }
     }
   }
