@@ -29,7 +29,7 @@
         "type": "integer"
       },
       "currency": {
-        "type": "string", "enum": ["USD", "RUB"]
+        "type": "string", "enum": ["USD", "RUR"]
       }
     }
   }
